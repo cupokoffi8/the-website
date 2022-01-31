@@ -11,7 +11,7 @@ function Features(){
             Welcome
             </p>
             <div className="header-btns">
-                <Link to='services' className='active' smooth={true} duration={1000}><a className='cv-btn1'>Learn More</a></Link> 
+                <Link to='design' className='active' smooth={true} duration={1000}><a className='cv-btn1'>Learn More</a></Link> 
             </div> 
             </div> 
         </div> 
