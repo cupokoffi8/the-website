@@ -6,7 +6,7 @@ function Design(){
         <div id="design"> 
             <Slider /> 
             <div className='header-btns'>
-                    <a href='' className='cv-btn'>GitHub</a> 
+                    <a href='https://github.com/cupokoffi8' className='cv-btn'>GitHub</a> 
                 </div>
                 <br /> 
         </div> 
