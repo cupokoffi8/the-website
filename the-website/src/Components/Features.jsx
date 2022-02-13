@@ -5,13 +5,13 @@ function Features(){
     return(
         <div id="features"> 
         <div className='features-text'>
-            <h1>Something will be typed here eventually</h1> 
+            <h1>Projects</h1> 
             <hr className="divider" /> 
             <p>
-            Welcome
+            See what we have been working on
             </p>
             <div className="header-btns">
-                <Link to='design' className='active' smooth={true} duration={1000}><a className='cv-btn1'>Learn More</a></Link> 
+                <a href="http://cupokoffi8.github.io/projects" className='cv-btn1'>Our Work</a> 
             </div> 
             </div> 
         </div> 
