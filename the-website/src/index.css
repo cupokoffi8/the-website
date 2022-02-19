@@ -514,11 +514,12 @@ body{
         font-size: 30px;
         margin:0px;
         letter-spacing: 3px;
-        color:#ffffff;
+        color:#ffffff; 
+        margin-top: 45vh !important; 
         }
         #features{
           width: 100%;
-          height: 110vh;
+          height: 100vh;
           background-color:#da3a3a; 
           box-sizing:unset;
           display: flex;
