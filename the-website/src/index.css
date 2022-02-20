@@ -41,7 +41,7 @@ body{
     height:90vh;
     position: relative;
     background-repeat: no-repeat;
-    background-size:100%;
+    background-size:cover; 
     background: linear-gradient( to bottom, rgba(0, 0, 0, 0.644) 0%, rgba(70, 70, 71, 0.8) 100% ), url("Images/header/background.jpeg");
   }
   .menu{
