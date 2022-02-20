@@ -6,7 +6,7 @@ function Navbar(){
         <>
             <nav>
                 <Link to='main' className='logo' smooth={true} duration={1000} >
-                    <h1>Group 8</h1>  
+                    <h1 className="test">Group 8</h1>  
                 </Link>
                 <input className='menu-btn' type='checkbox' id='menu-btn'/> 
                 <label className='menu-icon' for='menu-btn'>
