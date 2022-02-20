@@ -601,6 +601,9 @@ nav .menu-icon .nav-icon{
         nav .menu-btn:checked ~ .menu{
             display:block;
         }
+        .test {
+          margin-left: 0px !important; 
+        }
         .name .details{
           color: #ffffff;
         }
