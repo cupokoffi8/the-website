@@ -293,7 +293,7 @@ nav .menu-icon .nav-icon{
   #features{
   /* margin-top:140px ; */
   width: 100%;
-  height: 80vh;
+  height: 100vh;
   background-color:#da3a3a; 
   box-sizing: border-box;
   display: flex;
@@ -301,6 +301,12 @@ nav .menu-icon .nav-icon{
   justify-content: center;
   padding: 5% 0px 5%;
   position: relative;
+  }
+
+  #pp {
+    width: 15vw; 
+    height: auto; 
+    margin-bottom: 10px; 
   }
   
   .features-text{
@@ -513,6 +519,11 @@ nav .menu-icon .nav-icon{
       background-repeat: no-repeat;
       background-size:contain; 
       background: linear-gradient( to bottom, rgba(0, 0, 0, 0.644) 0%, rgba(70, 70, 71, 0.8) 100% ), url("Images/header/background.jpeg");
+    }
+    #pp {
+      width: 80vw; 
+      height: auto; 
+      margin-bottom: 10px; 
     }
         .menu-icon {
           display:block;
