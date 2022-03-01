@@ -41,8 +41,8 @@ body{
     height:90vh;
     position: relative;
     background-repeat: no-repeat;
-    background-size:cover; 
-    background: linear-gradient( to bottom, rgba(0, 0, 0, 0.644) 0%, rgba(70, 70, 71, 0.8) 100% ), url("Images/header/background.jpeg");
+    background-size: cover !important;
+    background: linear-gradient( to bottom, rgba(0, 0, 0, 0.644) 0%, rgba(70, 70, 71, 0.8) 100% ), url("Images/header/please.jpg");
   }
   .menu{
     display:none;
@@ -56,7 +56,9 @@ body{
     margin:0px;
 }
 .test {
+  margin-top: 7px;
   margin-left: 100px !important;
+  width: 200px !important;  
 }
 .menu li{
     width:100%;
@@ -517,8 +519,8 @@ nav .menu-icon .nav-icon{
       height:80vh;
       position: relative;
       background-repeat: no-repeat;
-      background-size:contain; 
-      background: linear-gradient( to bottom, rgba(0, 0, 0, 0.644) 0%, rgba(70, 70, 71, 0.8) 100% ), url("Images/header/background.jpeg");
+      background-size: cover !important; 
+      background: linear-gradient( to bottom, rgba(0, 0, 0, 0.644) 0%, rgba(70, 70, 71, 0.8) 100% ), url("Images/header/please.jpg");
     }
     #pp {
       width: 80vw; 
@@ -786,8 +788,8 @@ nav .menu-icon .nav-icon{
             height:100vh;
             position: relative;
             background-repeat: no-repeat;
-            background-size:contain; 
-            background: linear-gradient( to bottom, rgba(0, 0, 0, 0.644) 0%, rgba(70, 70, 71, 0.8) 100% ), url("Images/header/background.jpeg");
+            background-size: cover !important; 
+            background: linear-gradient( to bottom, rgba(0, 0, 0, 0.644) 0%, rgba(70, 70, 71, 0.8) 100% ), url("Images/header/please.jpg");
           }
           .b-container{
             display: inline-flex;

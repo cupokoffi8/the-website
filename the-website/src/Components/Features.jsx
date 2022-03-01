@@ -6,10 +6,10 @@ function Features(){
     return(
         <div id="features"> 
         <div className='features-text'>
-            <h1>Projects</h1> 
+            <h1>About Pathosense</h1> 
             <hr className="divider" /> 
             <p>
-            See what we have been working on
+            We strive to improve sentiment analysis systems to make connecting with users easier than ever
             </p>
             <img id="pp" src={PP} />
             <div className="header-btns">
