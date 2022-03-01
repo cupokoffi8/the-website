@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/the-website/static/css/main.77f55eee.css",
-    "main.js": "/the-website/static/js/main.13bc4150.js",
-    "static/media/background.jpeg": "/the-website/static/media/background.34f5f9d3a0eed512cedc.jpeg",
+    "main.css": "/the-website/static/css/main.dac66d6e.css",
+    "main.js": "/the-website/static/js/main.92f78011.js",
+    "static/media/please.jpg": "/the-website/static/media/please.7ca383ffd90de8db86a0.jpg",
     "static/media/Pathosense.png": "/the-website/static/media/Pathosense.a04cb2ceb33189e30f2b.png",
+    "static/media/Pathosense-Bar.png": "/the-website/static/media/Pathosense-Bar.4c35052a4159e794e42d.png",
     "index.html": "/the-website/index.html",
-    "main.77f55eee.css.map": "/the-website/static/css/main.77f55eee.css.map",
-    "main.13bc4150.js.map": "/the-website/static/js/main.13bc4150.js.map"
+    "main.dac66d6e.css.map": "/the-website/static/css/main.dac66d6e.css.map",
+    "main.92f78011.js.map": "/the-website/static/js/main.92f78011.js.map"
   },
   "entrypoints": [
-    "static/css/main.77f55eee.css",
-    "static/js/main.13bc4150.js"
+    "static/css/main.dac66d6e.css",
+    "static/js/main.92f78011.js"
   ]
 }
