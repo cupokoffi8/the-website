@@ -42,7 +42,7 @@ body{
     position: relative;
     background-repeat: no-repeat;
     background-size: cover !important;
-    background: linear-gradient( to bottom, rgba(0, 0, 0, 0.644) 0%, rgba(70, 70, 71, 0.8) 100% ), url("Images/header/please.jpg");
+    background: linear-gradient( to bottom, rgba(0, 0, 0, 0.867) 0%, rgba(70, 70, 71, 0.842) 100% ), url("Images/header/pleasee.jpg");
   }
   .menu{
     display:none;
@@ -520,7 +520,7 @@ nav .menu-icon .nav-icon{
       position: relative;
       background-repeat: no-repeat;
       background-size: cover !important; 
-      background: linear-gradient( to bottom, rgba(0, 0, 0, 0.644) 0%, rgba(70, 70, 71, 0.8) 100% ), url("Images/header/please.jpg");
+      background: linear-gradient( to bottom, rgba(0, 0, 0, 0.867) 0%, rgba(70, 70, 71, 0.842) 100% ), url("Images/header/pleasee.jpg");
     }
     #pp {
       width: 55vw; 
@@ -789,7 +789,7 @@ nav .menu-icon .nav-icon{
             position: relative;
             background-repeat: no-repeat;
             background-size: cover !important; 
-            background: linear-gradient( to bottom, rgba(0, 0, 0, 0.644) 0%, rgba(70, 70, 71, 0.8) 100% ), url("Images/header/please.jpg");
+            background: linear-gradient( to bottom, rgba(0, 0, 0, 0.867) 0%, rgba(70, 70, 71, 0.842) 100% ), url("Images/header/pleasee.jpg");
           }
           .b-container{
             display: inline-flex;
