@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.36d9c38f.css",
+    "main.css": "/static/css/main.0d457676.css",
     "main.js": "/static/js/main.f7efe18a.js",
-    "static/media/please.jpg": "/static/media/please.7ca383ffd90de8db86a0.jpg",
+    "static/media/pleasee.jpg": "/static/media/pleasee.7b36fcf6b33e897611ca.jpg",
     "static/media/Pathosense.png": "/static/media/Pathosense.a04cb2ceb33189e30f2b.png",
     "static/media/Pathosense-Bar.png": "/static/media/Pathosense-Bar.4c35052a4159e794e42d.png",
     "index.html": "/index.html",
-    "main.36d9c38f.css.map": "/static/css/main.36d9c38f.css.map",
+    "main.0d457676.css.map": "/static/css/main.0d457676.css.map",
     "main.f7efe18a.js.map": "/static/js/main.f7efe18a.js.map"
   },
   "entrypoints": [
-    "static/css/main.36d9c38f.css",
+    "static/css/main.0d457676.css",
     "static/js/main.f7efe18a.js"
   ]
 }
