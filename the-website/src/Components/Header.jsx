@@ -11,7 +11,7 @@ function Header(){
             <Navbar /> 
             <div className='name'>
                 <h1 data-aos="zoom-in-down" data-aos-duration="2000" className='the-header'>Welcome to Pathosense</h1>
-                <p data-aos="fade-down" data-aos-duration="2400" className='details'>Our Team: Alex Gaskins, Nikola Ciric, Carlitos Rodriguez and Daniel Goldberg</p> 
+                <p data-aos="fade-down" data-aos-duration="2400" className='details'>Our Team: Alex Gaskins, Nikola Ciric, and Carlitos Rodriguez</p> 
                 <div data-aos="fade-up" data-aos-duration="2400" className='header-btns'>
                     <Link to='features' className='active' smooth={true} duration={1000}><a className='cv-btn'>About</a></Link> 
                 </div>
