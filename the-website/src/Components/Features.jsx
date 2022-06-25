@@ -13,7 +13,7 @@ function Features(){
             </p>
             <img id="pp" src={PP} />
             <div className="header-btns">
-                <a href="http://cupokoffi8.github.io/projects" className='cv-btn1'>Our Work</a> 
+                <a href="http://cupokoffi8.github.io/pathosense" className='cv-btn1'>Try Pathosense</a> 
             </div> 
             </div> 
         </div> 
